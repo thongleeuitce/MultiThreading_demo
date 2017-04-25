@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MultiThreading</string>
+    <string name="label_handler_message">Handler Message</string>
+    <string name="label_handler_post">Handler Post</string>
+    <string name="label_asynctask">AsyncTask</string>
+    <string name="btn_start">Start</string>
+    <string name="returned_by_bg_thread">Returned by background thread: \n</string>
+    <string name="done_background_thread_has_been_stopped">Done \nBackground thread has been stopped</string>
+    <string name="done">Done</string>
+    <string name="working">Working...</string>
+    <string name="global_value_seen">\n global value seen by all thread </string>
+    <string name="btn_test">Test</string>
+    <string name="click_test">you clicked Test</string>
 </resources>

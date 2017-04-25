@@ -16,6 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AsyncTaskAcitivity"
+            android:label="@string/label_asynctask">
+        </activity>
+        <activity android:name=".HandlerMessageAcitivity"
+            android:label="@string/label_handler_message">
+        </activity>
+        <activity android:name=".HandlerPostAcitivity"
+            android:label="@string/label_handler_post">
+        </activity>
     </application>
 
 </manifest>
