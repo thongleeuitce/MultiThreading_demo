@@ -10,5 +10,9 @@
     <string name="working">Working...</string>
     <string name="global_value_seen">\n global value seen by all thread </string>
     <string name="btn_test">Test</string>
+    <string name="bg_work_is_over">Background work is over!</string>
+    <string name="btn_execute">Execute</string>
+    <string name="enter_some_data_here">Enter some data here</string>
     <string name="click_test">you clicked Test</string>
+    
 </resources>
