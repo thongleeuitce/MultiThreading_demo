@@ -32,8 +32,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent1);
                 break;
             case R.id.btn_asynctask:
+                Intent intent3 = new Intent(MainActivity.this, AsyncTaskAcitivity.class);
+                startActivity(intent3);
                 break;
             case R.id.btn_post:
+                Intent intent2 = new Intent(MainActivity.this, HandlerPostAcitivity.class);
+                startActivity(intent2);
                 break;
         }
     }

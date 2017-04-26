@@ -14,5 +14,7 @@
     <string name="btn_execute">Execute</string>
     <string name="enter_some_data_here">Enter some data here</string>
     <string name="click_test">you clicked Test</string>
-    
+    <string name="quick_job">Quick Job</string>
+    <string name="slow_job">Slow Job</string>
+    <string name="pleasw_wait">Some SLOW job is being done. Please wait...</string>
 </resources>

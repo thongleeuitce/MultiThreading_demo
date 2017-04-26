@@ -68,7 +68,7 @@ public class HandlerPostAcitivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
-                    for(int i = 0; i <20; i++){
+                    for(int i = 0; i < 20; i++){
                         Thread.sleep(1000);
                         synchronized (this){
                             globalValue += 1;
